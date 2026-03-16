@@ -1,5 +1,8 @@
 # 🎼 Composing Polyphonic Melody Using RNN with Attention
 
+📓 **Link to code notebook:**  
+[Open the project notebook](https://colab.research.google.com/drive/1ckfmWaYnpKTo0tSwIEZdU3sGiHv6Np3U?usp=sharing)
+
 This project explores automatic generation of **polyphonic symbolic music** using recurrent neural networks enhanced with an attention mechanism.  
 The system learns temporal and harmonic structure from musical sequences and generates coherent multi-voice continuations.
 
